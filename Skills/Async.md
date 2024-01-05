@@ -3,8 +3,8 @@
 - Theory
   - Event loop: 👂 heard
   - try..catch: 🎓 known
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - Non-blocking
+  - Async I/O
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
@@ -16,8 +16,8 @@
   - Race conditions: 👂 heard
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
-  - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Concurrent programming
+  - Parallel programming
   - Actor Model
   - Thread: 👂 heard
   - Process: 🎓 known
@@ -28,17 +28,17 @@
   - Promise: 🎓 known
   - Async/await: 🎓 known
   - Future
-  - Deferred: 🎓 known
-  - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
+  - Deferred
+  - Sync generator
+  - Async Generator
+  - Async Iterator
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal: 👂 heard
   - Stream: 👂 heard
   - Chain of responsibility: 🎓 known
-  - Middleware: 🎓 known
+  - Middleware
   - Locks: 👂 heard
 - Async adapters and utils
   - callbackify: 🎓 known
@@ -62,33 +62,33 @@
   - Timers: 🖐️ used
   - setImmediate: 🖐️ used
   - nextTick: 🎓 known
-  - AbortController: 🎓 known
-  - AbortSignal:🎓 known
+  - AbortController
+  - AbortSignal
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
-  - child_process: 🎓 known
-  - worker_threads:🎓 known
-  - Atomics: 🎓 known
+  - child_process
+  - worker_threads
+  - Atomics
   - High resolution clock: 👂 heard
   - Callback hell: 🎓 known
   - Promise hell:🎓 known
-  - ref() and unref(): 🎓 known
+  - ref() and unref()
   - Error handling in async code: 🎓 known 
   - Better stack traces with return await: 🎓 known
   - JSON: streaming serialization: 🎓 known
   - promisify: 🎓 known
   - callbackify: 🎓 known
-  - AsyncLocalStorage: 🎓 known
-  - AsyncResource: 👂 heard
+  - AsyncLocalStorage
+  - AsyncResource
 - Techniques
-  - async.js library: 🎓 known
+  - async.js library
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
-  - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.all
+  - Promise.allSettled
+  - Promise.race
+  - Promise.any
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing Constructor: 🎓 known
+  - Revealing Constructor
