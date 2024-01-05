@@ -13,7 +13,7 @@
   - ...rest: 🖐️ used
   - typeof: 🙋 explained
   - destructuring: 🖐️ used
-  - generator: 👂 heard
+  - generator
   - iterator
   - async generator
   - async iterator
