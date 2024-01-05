@@ -50,7 +50,7 @@
   - functor: 👂 heard
   - monad: 👂 heard
   - monoid
-  - generator: 👂 heard
+  - generator
   - coroutine
 - Data structures
   - array: 🙋 explained
