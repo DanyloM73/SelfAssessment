@@ -1,12 +1,12 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 👂 heard
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -29,7 +29,7 @@
   - Command line arguments
   - Node.js CLI
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown: 👂 heard
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
@@ -37,14 +37,14 @@
   - Web Streams API
   - Crypto API
   - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
+  - Web Crypto API: 👂 heard
+  - File system API: sync and async: 👂 heard
   - Copy folder recursively
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 🎓 known
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -54,11 +54,11 @@
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
+  - Generating crypto random UUID: 👂 heard
   - node:url vs new URL
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 🎓 known
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -71,7 +71,7 @@
   - GoF patterns
   - Distributed systems
   - Highload applications
-  - Clean architecture
+  - Clean architecture: 🎓 known
   - DDD
   - Message Queue
   - CQS
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
   - TLS
-  - Websocket
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
+  - XSS: 👂 heard
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - Fetch API
-  - IncomingMessage
-  - SQL injection
+  - IncomingMessage: 👂 heard
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - ALPN
@@ -113,17 +113,17 @@
   - SSL certificates
   - Protocol agnostic approach
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Native test runner: 👂 heard
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
@@ -136,19 +136,19 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🎓 known
+  - error.cause: 👂 heard
+  - error.code: 👂 heard
+  - error.message: 👂 heard
+  - error.stack: 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools:👂 heard
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons

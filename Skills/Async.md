@@ -1,89 +1,89 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch: 🎓 known
   - Non-blocking
   - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
+  - Thread pool: 👂 heard
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 👂 heard
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
+  - libuv: 👂 heard
+  - Race conditions: 👂 heard
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂 heard
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
+  - Signal: 👂 heard
+  - Stream: 👂 heard
+  - Chain of responsibility: 🎓 known
   - Middleware
-  - Locks
+  - Locks: 👂 heard
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
+  - nextTick: 🎓 known
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
   - child_process
   - worker_threads
   - Atomics
-  - High resolution clock
-  - Callback hell
-  - Promise hell
+  - High resolution clock: 👂 heard
+  - Callback hell: 🎓 known
+  - Promise hell:🎓 known
   - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
+  - Error handling in async code: 🎓 known 
+  - Better stack traces with return await: 🎓 known
+  - JSON: streaming serialization: 🎓 known
+  - promisify: 🎓 known
+  - callbackify: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - async.js library
-  - RxJS library
-  - Async composition
+  - RxJS library: 👂 heard
+  - Async composition: 👂 heard
   - Promise.all
   - Promise.allSettled
   - Promise.race
@@ -92,4 +92,3 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API
