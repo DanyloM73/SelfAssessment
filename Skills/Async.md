@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop: 👂 heard
-  - try..catch: 🎓 known
-  - Non-blocking
-  - Async I/O
+  - try..catch: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool: 👂 heard
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
@@ -16,29 +16,29 @@
   - Race conditions: 👂 heard
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread: 👂 heard
+  - Thread: 🎓 known
   - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 🎓 known
+  - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Deferred: 🎓 known
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal: 👂 heard
-  - Stream: 👂 heard
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility: 🎓 known
-  - Middleware
+  - Middleware: 🎓 known
   - Locks: 👂 heard
 - Async adapters and utils
   - callbackify: 🎓 known
@@ -62,33 +62,33 @@
   - Timers: 🖐️ used
   - setImmediate: 🖐️ used
   - nextTick: 🎓 known
-  - AbortController
-  - AbortSignal
+  - AbortController: 🎓 known
+  - AbortSignal:🎓 known
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
-  - child_process
-  - worker_threads
-  - Atomics
+  - child_process: 🎓 known
+  - worker_threads:🎓 known
+  - Atomics: 🎓 known
   - High resolution clock: 👂 heard
   - Callback hell: 🎓 known
   - Promise hell:🎓 known
-  - ref() and unref()
+  - ref() and unref(): 🎓 known
   - Error handling in async code: 🎓 known 
   - Better stack traces with return await: 🎓 known
   - JSON: streaming serialization: 🎓 known
   - promisify: 🎓 known
   - callbackify: 🎓 known
-  - AsyncLocalStorage
-  - AsyncResource
+  - AsyncLocalStorage: 🎓 known
+  - AsyncResource: 👂 heard
 - Techniques
-  - async.js library
+  - async.js library: 🎓 known
   - RxJS library: 👂 heard
   - Async composition: 👂 heard
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Promise.all: 🎓 known
+  - Promise.allSettled: 🎓 known
+  - Promise.race: 🎓 known
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing Constructor
+  - Revealing Constructor: 🎓 known
