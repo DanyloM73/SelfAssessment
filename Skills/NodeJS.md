@@ -2,41 +2,41 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
+  - Stateful and stateless servers: 👂 heard
+  - Nonblocking I/O and slocking code: 👂 heard
   - Event loop: phases
   - Event loop: microtasks and macrotasks
   - Garbage collection: 🎓 known
-  - Node.js LTS schedule
+  - Node.js LTS schedule: 🎓 known
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
+  - node:module: 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules: 👂 heard
-  - Dependencies: package.json and package lock: 👂 heard
-  - Module-based permissions model
+  - Contexts and scripts node:vm: 👂 heard
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
+  - Module-based permissions model: 👂 heard
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments
-  - Node.js CLI
+  - Node.js CLI: 👂 heard
   - Process-based permissions
-  - Graceful shutdown: 👂 heard
+  - Graceful shutdown: 🖐️ used
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
   - Web Crypto API: 👂 heard
   - File system API: sync and async: 👂 heard
   - Copy folder recursively
@@ -50,11 +50,11 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - node:worker_threads: 👂 heard
+  - node:child_process: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID: 👂 heard
+  - Generating crypto random UUID: 🖐️ used
   - node:url vs new URL
   - node:assert
   - Internationalization
@@ -65,9 +65,9 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Dependency injection: 👂 heard
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -97,15 +97,15 @@
   - REST
   - RPC
   - Routing
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
-  - XSS: 👂 heard
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 🎓 known
   - Path traversal
   - CSRF
-  - DNS: 👂 heard
-  - Fetch API
+  - DNS: 🎓 known
+  - Fetch API: 👂 heard
   - IncomingMessage: 👂 heard
-  - SQL injection: 👂 heard
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -125,10 +125,10 @@
   - Buffer: 🎓 known
   - Console: 🖐️ used
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
 - Data access
   - Data access layer
   - Repository
