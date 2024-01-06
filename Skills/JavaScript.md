@@ -4,7 +4,7 @@
   - Object: 🙋 explained
   - this: 🙋 explained
   - arrow function: 🙋 explained
-  - async function: 🎓 known
+  - async function: 🖐️ used
   - call: 🎓 known
   - bind: 🎓 known
   - apply: 🎓 known
@@ -13,17 +13,17 @@
   - ...rest: 🖐️ used
   - typeof: 🙋 explained
   - destructuring: 🖐️ used
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - generator: 👂 heard
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
   - chaining: 🎓 known
   - optional chaining: 🎓 known
   - IIFE
   - global: 🎓 known
   - globalThis: 🎓 known
   - window: 🎓 known
-  - getters and setters: 🎓 known
+  - getters and setters: 🖐️ used
   - __proto__: 🎓 known
   - prototype: 🎓 known
   - equality operators: 🙋 explained
@@ -32,7 +32,7 @@
   - ternary operator: 🙋 explained
   - void: 🖐️ used
   - yield: 🎓 known
-  - await: 🎓 known
+  - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🎓 known
@@ -48,16 +48,16 @@
   - for..in: 🙋 explained
   - for..of: 🙋 explained
   - for await: 🎓 known
-  - throw: 🎓 known
+  - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
   - label: 👂 heard
-  - try..catch: 🎓 known
+  - try..catch: 🖐️ used
   - switch: 🙋 explained
-  - class: 🎓 known
-  - new Error: 🎓 known
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with: 👂 heard
 - Functions
   - function declaration: 🙋 explained
