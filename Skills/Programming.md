@@ -1,5 +1,7 @@
 ## Programming fundamental concepts
 
+## Programming fundamental concepts
+
 - Syntax and concepts
   - value: 🙋 explained
   - identifier: 🙋 explained
@@ -11,9 +13,9 @@
   - heap: 👂 heard
   - function: 🙋 explained
   - procedure: 👂 heard
-  - method: 👂 heard
-  - class: 🎓 known
-  - prototype: 🎓 known
+  - method: 🖐️ used
+  - class: 🙋 explained
+  - prototype: 🖐️ used
   - event: 🎓 known
   - type: 🙋 explained
   - primitive types: 🙋 explained
@@ -27,21 +29,21 @@
   - regular expression: 🎓 known
   - interface: 🎓 known
   - contract: 🎓 known
-  - module: 🎓 known
+  - module: 🖐️ used
   - call stack: 🎓 known
 - Functions
   - signature: 🎓 known
   - argument: 🎓 known
   - parameter: 🎓 known
   - pure function: 👂 heard
-  - lambda expression: 🎓 known
+  - lambda expression: 🖐️ used
   - side effects: 👂 heard
   - closure: 🎓 known
   - partial application
   - curry: 🎓 known
   - higher order: 🎓 known
-  - recursion: 🎓 known
-  - callback: 🎓 known
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
   - listener: 🎓 known
   - compose: 🎓 known
   - pipe: 🎓 known
@@ -50,14 +52,14 @@
   - functor: 👂 heard
   - monad: 👂 heard
   - monoid
-  - generator
+  - generator: 👂 heard
   - coroutine
 - Data structures
   - array: 🙋 explained
   - structure: 🎓 known
   - record: 🎓 known
   - enum: 🎓 known
-  - instance: 🎓 known
+  - instance: 🖐️ used
   - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🎓 known
@@ -72,7 +74,7 @@
   - deque
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator
+  - iterator: 👂 heard
   - mutable state: 🎓 known
   - immutable state: 🎓 known
   - serialization
