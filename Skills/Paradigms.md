@@ -4,19 +4,19 @@
   - Procedural programming: 🖐️ used
   - Imperative programming: 🖐️ used
   - Structured programming: 🖐️ used
-  - Non-structured programming
+  - Non-structured programming: 👂 heard
   - Functional programming: 🎓 known
   - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🎓 known
-  - Object-based programming 
-  - Generic programming
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asyncronous programming: 👂 heard
+  - Asyncronous programming: 🖐️ used
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
   - Actor model
@@ -36,29 +36,29 @@
   - Abstract class: 🎓 known
   - Interface: 🎓 known
   - Encapsulation: 🎓 known
-  - Hidden class
+  - Hidden class: 👂 heard
   - Object form: 👂 heard
   - instance: 🎓 known
   - Introspection
   - Reflection
 - Patterns
-  - Singleton
+  - Singleton: 🖐️ used
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer: 👂 heard
+  - Observer: 🖐️ used
   - Strategy
-  - Facade: 👂 heard
-  - Proxy
+  - Facade: 🖐️ used
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
   - Prototype: 👂 heard
   - Composite
-  - Decorator: 👂 heard
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
