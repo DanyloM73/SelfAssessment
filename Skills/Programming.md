@@ -1,7 +1,5 @@
 ## Programming fundamental concepts
 
-## Programming fundamental concepts
-
 - Syntax and concepts
   - value: 🙋 explained
   - identifier: 🙋 explained
